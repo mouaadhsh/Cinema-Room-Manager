@@ -1,0 +1,15 @@
+type: hyperskill
+title: Cinema Room Manager
+language: English
+summary: "<p>Cinema has been a part of the entertainment industry for a long time:\
+  \ a good movie is a way to escape reality and live through a variety of\_emotions.\_\
+  The best cinema experience you can get is probably in a cinema theatre. In this\
+  \ project, you will create an application that\_helps manage a\_cinema theatre:\
+  \ sell tickets, check available seats, see sales statistics, and more.</p><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/138?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/138</a>"
+programming_language: Kotlin
+content:
+- Topics
+- Cinema Room Manager
+mode: Study
